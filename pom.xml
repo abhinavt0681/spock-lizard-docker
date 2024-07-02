@@ -8,8 +8,8 @@
 	<version>1.0</version>
 	<packaging>jar</packaging>
 
-	<name>spock-lizard</name>
-	<description>Spock Lizard Docker</description>
+	<name>spock-lizard </name>
+	<description>Spock Lizard Docker </description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
